@@ -26,6 +26,8 @@ __PACKAGE__->init;
 
 =head1 SEE ALSO
 
+L<Acme::MetaSyntactic::id_beverages>
+
 L<Acme::MetaSyntactic>
 
 =cut
@@ -44,4 +46,4 @@ tongseng tumpeng urap woku aremarem asinan bacang batagor burasa cilok cimol
 cireng emping lemper lumpia martabak mendoan otakotak panada pastel popiah
 risoles rujak pangsit samosa siomay serabi gejrot asida bahulu bakpia cendil
 dodol geplak getuk kastangel klepon kolak apem cubit pukis putu rangi sus
-moci lupis nagasari nastar ondeonde pisgor wingko
+moci lupis nagasari nastar ondeonde pisgor wingko kecap tauco
