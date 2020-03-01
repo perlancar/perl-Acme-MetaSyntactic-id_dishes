@@ -26,6 +26,8 @@ __PACKAGE__->init;
 
 =head1 SEE ALSO
 
+L<https://en.wikipedia.org/wiki/List_of_Indonesian_dishes>
+
 L<Acme::MetaSyntactic::id_beverages>
 
 L<Acme::MetaSyntactic>
